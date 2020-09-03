@@ -1,3 +1,7 @@
+/* This file gives different types of styling to each classes in HTML based on the appropriate commands
+. means give style to class element
+non . gives style directly to the associate element i.e. body, a, p, etc. */
+
 * {
     box-sizing: border-box;
     padding: 0;
