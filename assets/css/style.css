@@ -4,12 +4,10 @@
     margin: 0;
 }
 
-/* Change the background color of the whole page */
 body {
     background-color: #d9dcd6;
 }
 
-/* Change style of the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -18,17 +16,14 @@ body {
     text-decoration: none;
 }
 
-/* Change the style of the very top of Horiseon word */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/* Gives white color to all the words associated within this commannd */
 .header h1 .seo {
     color: #d9dcd6;
 }
-
 
 .header nav {
     padding-top: 15px;
